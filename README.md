@@ -22,6 +22,21 @@ Final Year Project Topics For Computer Engineering Includes Source Code, PPT, Sy
 
 10	Bank Record Storage System Using Blockchain	https://youtu.be/ZH3ySXHGrPE?si=3Cw8_86L34jAdvNy
 
+### Project include:
+Synopsis
+
+PPT
+
+Research Paper
+
+Code
+
+Explanation video
+
+Documents
+
+Report
+
 ### Need Code, Documents & Explanation video ? 
 
 ## How to Reach me :
